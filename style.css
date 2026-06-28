@@ -1,0 +1,43 @@
+body {
+    /* Definindo cor de fundo da página */
+    background-color: aquamarine;
+}
+
+nav {
+    /* Centralizando menu */
+    text-align: center;
+}
+
+nav a {
+    /* Definindo estilo de fonte e detalhes dos links */
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+    margin: 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    /* Funcionamento ao passar o mouse por cima */
+    background-color: rgb(185, 252, 253);
+    text-decoration: underline;
+}
+
+main {
+    /* Definindo tamanho e margens do conteudo principal */
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Configurando alinhamento de elementos */
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+footer p {
+    text-align: center;
+}
