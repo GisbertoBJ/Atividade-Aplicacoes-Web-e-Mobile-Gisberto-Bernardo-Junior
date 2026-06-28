@@ -1,0 +1,37 @@
+body {
+    background-color: aquamarine;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+    margin: 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: rgb(185, 252, 253);
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+footer p {
+    text-align: center;
+}
